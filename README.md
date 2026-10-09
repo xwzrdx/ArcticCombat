@@ -66,7 +66,6 @@ My first project, the project that got me into coding + reverse engineering with
 
  
 
-https://github.com/user-attachments/assets/6cb62b10-54cc-48b6-9f4a-155ea580756c
 
 https://github.com/user-attachments/assets/19b0ffcf-58ee-49ab-ad97-d3f2af4e9ac7
 
