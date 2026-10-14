@@ -4,6 +4,7 @@ My first project, the project that got me into coding + reverse engineering with
 
 
 # Summary of gameplay stuff
+* Dynamic Viewmodel Adaptation (Corner Slice / Wall Push)
 * Night Maps
 * CQB Maps
 * Custom Maps (10+ maps)
